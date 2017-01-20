@@ -1,0 +1,9 @@
+C:\Users\Jose.Agraz\documents\visual studio 2012\Projects\EnvioCorreos\EnvioCorreos\obj\Debug\EnvioCorreos.Form1.resources
+C:\Users\Jose.Agraz\documents\visual studio 2012\Projects\EnvioCorreos\EnvioCorreos\obj\Debug\EnvioCorreos.Properties.Resources.resources
+C:\Users\Jose.Agraz\documents\visual studio 2012\Projects\EnvioCorreos\EnvioCorreos\obj\Debug\EnvioCorreos.csproj.GenerateResource.Cache
+C:\Users\Jose.Agraz\documents\visual studio 2012\Projects\EnvioCorreos\EnvioCorreos\bin\Debug\EnvioCorreos.exe.config
+C:\Users\Jose.Agraz\documents\visual studio 2012\Projects\EnvioCorreos\EnvioCorreos\bin\Debug\EnvioCorreos.exe
+C:\Users\Jose.Agraz\documents\visual studio 2012\Projects\EnvioCorreos\EnvioCorreos\bin\Debug\EnvioCorreos.pdb
+C:\Users\Jose.Agraz\documents\visual studio 2012\Projects\EnvioCorreos\EnvioCorreos\obj\Debug\EnvioCorreos.exe
+C:\Users\Jose.Agraz\documents\visual studio 2012\Projects\EnvioCorreos\EnvioCorreos\obj\Debug\EnvioCorreos.pdb
+C:\Users\Jose.Agraz\documents\visual studio 2012\Projects\EnvioCorreos\EnvioCorreos\obj\Debug\EnvioCorreos.csprojResolveAssemblyReference.cache
